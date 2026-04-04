@@ -21,6 +21,8 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,js,html,css&theme=dark" alt="Languages" />
   </a>
+  <br />
+  <sup>Python, C++, C, Java, TypeScript, JavaScript, HTML, CSS</sup>
 </p>
 
 **AI & Robotics Frameworks**
@@ -28,6 +30,8 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros&theme=dark" alt="AI Frameworks" />
   </a>
+  <br />
+  <sup>PyTorch, TensorFlow, OpenCV, ROS 2</sup>
   <br />
   <sup><b>Libraries:</b> YOLOv8, MediaPipe, NumPy, Pandas, CVZone</sup>
 </p>
@@ -37,6 +41,8 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,sqlite,flask&theme=dark" alt="Web Technologies" />
   </a>
+  <br />
+  <sup>React, Node.js, Express, SQLite, Flask</sup>
 </p>
 
 **Embedded Systems & Edge Hardware**
@@ -44,6 +50,8 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" alt="IoT Hardware" />
   </a>
+  <br />
+  <sup>Arduino, Raspberry Pi, Linux</sup>
 </p>
 
 **Systems & Development Tools**
@@ -51,6 +59,8 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,matlab,github,git,docker&theme=dark" alt="Systems and Tools" />
   </a>
+  <br />
+  <sup>VS Code, MATLAB, GitHub, Git, Docker</sup>
 </p>
 
 ***
@@ -59,6 +69,7 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
 
 | Project | Focus | Impact & Metrics |
 |---------|-------|------------------|
+| **[Indoor Autonomous Mobile Robot](#)** | ROS 2, LiDAR | Developed a ROS 2 Jazzy reactive navigation node processing LiDAR `/scan` data at **10 Hz**. Enabled real-time obstacle evasion, reducing indoor collision events by **~80%**. |
 | **[SPARC System](https://github.com/harshitworkmain)** | OpenCV, Deep Learning | Engineered a real-time ISL/ASL recognition pipeline using MediaPipe and TF/Keras. Achieved **92.4% accuracy at 15–20 FPS** with end-to-end latency under **180 ms**. |
 | **[TRIDENT Ecosystem](https://github.com/harshitworkmain/trident)** | IoT, Robotics, Orchestrator | Built an edge-based disaster rescue platform streaming telemetry with **>95% uptime**. Automated probabilistic priority scoring, reducing manual triage time by **40%**. |
 | **[DrishtiGuide](https://github.com/harshitworkmain/drishtiguide)** | IoT Edge AI, YOLOv8 | Deployed a multimodal navigation pipeline integrating YOLOv8 and ESP8266, achieving **sub-120 ms inference latency** and reducing missed-obstacle events by **~60%**. |
