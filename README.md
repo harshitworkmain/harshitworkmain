@@ -17,51 +17,33 @@ I'm a pre-final year Electronics and Computer Engineering undergrad specializing
 ### ⚡ Technical Arsenal
 
 **Programming Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,js,html,css&theme=dark" alt="Languages" />
-  </a>
-  <br />
-  <sup>Python, C++, C, Java, TypeScript, JavaScript, HTML, CSS</sup>
-</p>
+| <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Python | C++ | C | Java | TypeScript | JavaScript | HTML | CSS |
 
 **AI & Robotics Frameworks**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,ros&theme=dark" alt="AI Frameworks" />
-  </a>
-  <br />
-  <sup>PyTorch, TensorFlow, OpenCV, ROS 2</sup>
-  <br />
-  <sup><b>Libraries:</b> YOLOv8, MediaPipe, NumPy, Pandas, CVZone</sup>
-</p>
+| <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=ros&theme=dark" width="40"> |
+|:---:|:---:|:---:|:---:|
+| PyTorch | TensorFlow | OpenCV | ROS 2 |
+
+<sup><b>Libraries:</b> YOLOv8, MediaPipe, NumPy, Pandas, CVZone</sup>
+
+<br />
 
 **Full-Stack & Cloud**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,sqlite,flask&theme=dark" alt="Web Technologies" />
-  </a>
-  <br />
-  <sup>React, Node.js, Express, SQLite, Flask</sup>
-</p>
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=express&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="40"> |
+|:---:|:---:|:---:|:---:|:---:|
+| React | Node.js | Express | SQLite | Flask |
 
 **Embedded Systems & Edge Hardware**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" alt="IoT Hardware" />
-  </a>
-  <br />
-  <sup>Arduino, Raspberry Pi, Linux</sup>
-</p>
+| <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40"> |
+|:---:|:---:|:---:|
+| Arduino | Raspberry Pi | Linux |
 
 **Systems & Development Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,matlab,github,git,docker&theme=dark" alt="Systems and Tools" />
-  </a>
-  <br />
-  <sup>VS Code, MATLAB, GitHub, Git, Docker</sup>
-</p>
+| <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40"> |
+|:---:|:---:|:---:|:---:|:---:|
+| VS Code | MATLAB | GitHub | Git | Docker |
 
 ***
 
