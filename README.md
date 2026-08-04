@@ -1,7 +1,7 @@
 # Harshit Singh
 ### Engineering intelligent, hardware-backed AI systems that bridge the physical and digital worlds.
 
-I'm a pre-final year Electronics and Computer Engineering undergrad specializing in Computer Vision, Machine Learning, and applied AI systems. I build end-to-end intelligence pipelines—ranging from real-time deep learning recognition models to autonomous robotic navigation nodes. I focus on developing production-ready inference architectures with measurable real-world impact.
+I'm a final year Electronics and Computer Engineering undergrad specializing in Computer Vision, Machine Learning, and applied AI systems. I build end-to-end intelligence pipelines—ranging from real-time deep learning recognition models to autonomous robotic navigation nodes. I focus on developing production-ready inference architectures with measurable real-world impact.
 
 <div align="left">
   <a href="mailto:harshit.workmain@gmail.com">
