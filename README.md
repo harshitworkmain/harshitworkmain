@@ -20,27 +20,27 @@ I'm a final year Electronics and Computer Engineering (ECM) student at VIT Chenn
 ### ⚡ Technical Arsenal
 
 **Programming Languages**
-| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=sql&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40"> |
+| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/sql.svg" width="40"> | <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40"> |
 |:---:|:---:|:---:|
 | Java | SQL | Python |
 
 <br />
 
 **Machine Learning & Deep Learning**
-| <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" width="40"> |
-|:---:|:---:|:---:|
-| PyTorch | TensorFlow | Scikit-Learn |
+| <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/keras.svg" width="40"> |
+|:---:|:---:|:---:|:---:|
+| PyTorch | TensorFlow | Scikit-Learn | Keras |
 
-<sup><b>Architectures & Methods:</b> LSTM, Time-Series Forecasting, Random Forest, CNN, Feature Engineering</sup>
+**Architectures & Methods:** LSTM • Time-Series Forecasting • Random Forest • CNN • Feature Engineering
 
 <br />
 
 **Computer Vision**
-| <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=ros&theme=dark" width="40"> |
-|:---:|:---:|
-| OpenCV | ROS 2 |
+| <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=ros&theme=dark" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/mediapipe.svg" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/yolo.png" width="40"> |
+|:---:|:---:|:---:|:---:|
+| OpenCV | ROS 2 | MediaPipe | YOLOv8 |
 
-<sup><b>Frameworks & Tools:</b> YOLOv8, MediaPipe, TF.js</sup>
+**Edge & Real-Time Perception:** Sensor Fusion • Monocular Distance Estimation • 6-DOF IMU Telemetry • Spatial Filtering
 
 <br />
 
@@ -49,16 +49,16 @@ I'm a final year Electronics and Computer Engineering (ECM) student at VIT Chenn
 |:---:|:---:|:---:|
 | SQLite | MySQL | PostgreSQL |
 
-<sup><b>Core Concepts:</b> REST APIs, ETL Pipelines, Ingestion & Validation, Caching Strategies</sup>
+**Core Pipelines & Backends:** REST APIs • Automated ETL Ingestion • Data Validation • In-Memory Caching
 
 <br />
 
 **Data Tools & Analytics**
-| <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="40"> | <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" width="40"> |
+| <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/pandas.svg" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/numpy.svg" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/matplotlib.svg" width="40"> | <img src="https://raw.githubusercontent.com/harshitworkmain/harshitworkmain/main/assets/icons/powerbi.svg" width="40"> |
 |:---:|:---:|:---:|:---:|
 | Pandas | NumPy | Matplotlib | Power BI |
 
-<sup><b>Analytics:</b> Statistical Modeling, MCDA Decision Engines, Time-Series Error Analysis</sup>
+**Analytics & Decision Modeling:** Statistical Modeling • Multi-Criteria Decision Analysis (MCDA) • Time-Series Error Benchmarking
 
 <br />
 
